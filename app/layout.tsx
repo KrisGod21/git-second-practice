@@ -15,24 +15,19 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://supanext-starter-kit2.vercel.app'),
-  title: "SupaNext Starter Kit 2",
-  description: "A modern starter kit powered by Supabase and Next.js.",
+  title: "Vruksh",
+  description: "Vruksh brings volunteers and communities together to run outreach programs and drive local impact.",
   openGraph: {
-    title: "SupaNext Starter Kit 2",
-    description: "A modern starter kit powered by Supabase and Next.js.",
-    images: "/assets/images/bento-features.png",
-    url: "https://supanext-starter-kit2.vercel.app",
-    siteName: "SupaNext Starter Kit 2",
+    title: "Vruksh",
+    description: "Vruksh brings volunteers and communities together to run outreach programs and drive local impact.",
+    siteName: "Vruksh",
     locale: "en_US",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    images: "/assets/images/bento-features.png",
-    title: "SupaNext Starter Kit 2",
-    description: "A modern starter kit powered by Supabase and Next.js.",
-    creator: "@vito8916",
+    title: "Vruksh",
+    description: "Vruksh brings volunteers and communities together to run outreach programs and drive local impact.",
   },
 };
 
